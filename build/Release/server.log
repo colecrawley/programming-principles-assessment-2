@@ -1,0 +1,152 @@
+
+========== New Session: 2025-11-17 21:00:49.611 ==========
+[2025-11-17 21:00:49.614] [INFO] Server listening on port 8080
+[2025-11-17 21:15:15.206] [INFO] Client connected
+[2025-11-17 21:15:15.206] [INFO] Processing request from client socket: 332
+[2025-11-17 21:15:15.209] [INFO] Request received: COMPRESS_REQUEST, Algorithm: RLE, File: rle_test.bin, Size: 5242880
+[2025-11-17 21:15:15.210] [INFO] Processing compression request
+[2025-11-17 21:15:15.210] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:15:15.216] [INFO] RLE Compression: 5242880 bytes -> 41230 bytes
+[2025-11-17 21:15:15.216] [INFO] Created directory: ./compressed/
+[2025-11-17 21:15:15.217] [INFO] Successfully wrote file: ./compressed/rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:15:15.217] [INFO] Compression completed: rle_test_RLE.compressed
+[2025-11-17 21:15:15.217] [INFO] Response sent: Status=SUCCESS, File=rle_test_RLE.compressed, Size=41230
+[2025-11-17 21:17:04.402] [INFO] Client connected
+[2025-11-17 21:17:04.402] [INFO] Processing request from client socket: 344
+[2025-11-17 21:17:04.406] [INFO] Request received: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: huffman_test.txt, Size: 5242880
+[2025-11-17 21:17:04.406] [INFO] Processing compression request
+[2025-11-17 21:17:04.406] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:17:04.510] [INFO] Huffman Compression: 5242880 bytes -> 1277479 bytes
+[2025-11-17 21:17:04.512] [INFO] Successfully wrote file: ./compressed/huffman_test_Huffman.compressed (1277479 bytes)
+[2025-11-17 21:17:04.512] [INFO] Compression completed: huffman_test_Huffman.compressed
+[2025-11-17 21:17:04.512] [INFO] Response sent: Status=SUCCESS, File=huffman_test_Huffman.compressed, Size=1277479
+[2025-11-17 21:17:53.009] [INFO] Client connected
+[2025-11-17 21:17:53.009] [INFO] Processing request from client socket: 332
+[2025-11-17 21:17:53.011] [INFO] Request received: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: rle_test.bin, Size: 5242880
+[2025-11-17 21:17:53.012] [INFO] Processing compression request
+[2025-11-17 21:17:53.012] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:17:53.067] [INFO] Huffman Compression: 5242880 bytes -> 1259130 bytes
+[2025-11-17 21:17:53.069] [INFO] Successfully wrote file: ./compressed/rle_test_Huffman.compressed (1259130 bytes)
+[2025-11-17 21:17:53.069] [INFO] Compression completed: rle_test_Huffman.compressed
+[2025-11-17 21:17:53.070] [INFO] Response sent: Status=SUCCESS, File=rle_test_Huffman.compressed, Size=1259130
+[2025-11-17 21:18:12.448] [INFO] Client connected
+[2025-11-17 21:18:12.448] [INFO] Processing request from client socket: 364
+[2025-11-17 21:18:12.451] [INFO] Request received: COMPRESS_REQUEST, Algorithm: RLE, File: huffman_test.txt, Size: 5242880
+[2025-11-17 21:18:12.452] [INFO] Processing compression request
+[2025-11-17 21:18:12.452] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:18:12.471] [INFO] RLE Compression: 5242880 bytes -> 7074898 bytes
+[2025-11-17 21:18:12.473] [INFO] Successfully wrote file: ./compressed/huffman_test_RLE.compressed (7074898 bytes)
+[2025-11-17 21:18:12.474] [INFO] Compression completed: huffman_test_RLE.compressed
+[2025-11-17 21:18:12.475] [INFO] Response sent: Status=SUCCESS, File=huffman_test_RLE.compressed, Size=7074898
+[2025-11-17 21:30:07.068] [INFO] Client connected
+[2025-11-17 21:30:07.068] [INFO] Processing request from client socket: 380
+[2025-11-17 21:30:07.068] [INFO] Request received: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: vinland_saga_image.jpg, Size: 197726
+[2025-11-17 21:30:07.069] [INFO] Processing compression request
+[2025-11-17 21:30:07.069] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:30:07.085] [INFO] Huffman Compression: 197726 bytes -> 198432 bytes
+[2025-11-17 21:30:07.086] [INFO] Successfully wrote file: ./compressed/vinland_saga_image_Huffman.compressed (198432 bytes)
+[2025-11-17 21:30:07.087] [INFO] Compression completed: vinland_saga_image_Huffman.compressed
+[2025-11-17 21:30:07.087] [INFO] Response sent: Status=SUCCESS, File=vinland_saga_image_Huffman.compressed, Size=198432
+[2025-11-17 21:30:29.036] [INFO] Client connected
+[2025-11-17 21:30:29.036] [INFO] Processing request from client socket: 376
+[2025-11-17 21:30:29.036] [INFO] Request received: COMPRESS_REQUEST, Algorithm: RLE, File: vinland_saga_image.jpg, Size: 197726
+[2025-11-17 21:30:29.037] [INFO] Processing compression request
+[2025-11-17 21:30:29.037] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:30:29.037] [INFO] RLE Compression: 197726 bytes -> 392724 bytes
+[2025-11-17 21:30:29.038] [INFO] Successfully wrote file: ./compressed/vinland_saga_image_RLE.compressed (392724 bytes)
+[2025-11-17 21:30:29.038] [INFO] Compression completed: vinland_saga_image_RLE.compressed
+[2025-11-17 21:30:29.038] [INFO] Response sent: Status=SUCCESS, File=vinland_saga_image_RLE.compressed, Size=392724
+[2025-11-17 21:33:57.743] [INFO] Client connected
+[2025-11-17 21:33:57.743] [INFO] Processing request from client socket: 360
+[2025-11-17 21:33:57.743] [INFO] Request received: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:33:57.744] [INFO] Processing compression request
+[2025-11-17 21:33:57.744] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:33:57.800] [INFO] Huffman Compression: 958062 bytes -> 892597 bytes
+[2025-11-17 21:33:57.802] [INFO] Successfully wrote file: ./compressed/berserk_image_bmp_Huffman.compressed (892597 bytes)
+[2025-11-17 21:33:57.802] [INFO] Compression completed: berserk_image_bmp_Huffman.compressed
+[2025-11-17 21:33:57.802] [INFO] Response sent: Status=SUCCESS, File=berserk_image_bmp_Huffman.compressed, Size=892597
+[2025-11-17 21:34:13.230] [INFO] Client connected
+[2025-11-17 21:34:13.231] [INFO] Processing request from client socket: 360
+[2025-11-17 21:34:13.231] [INFO] Request received: COMPRESS_REQUEST, Algorithm: RLE, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:34:13.232] [INFO] Processing compression request
+[2025-11-17 21:34:13.232] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:34:13.234] [INFO] RLE Compression: 958062 bytes -> 1538916 bytes
+[2025-11-17 21:34:13.235] [INFO] Successfully wrote file: ./compressed/berserk_image_bmp_RLE.compressed (1538916 bytes)
+[2025-11-17 21:34:13.235] [INFO] Compression completed: berserk_image_bmp_RLE.compressed
+[2025-11-17 21:34:13.236] [INFO] Response sent: Status=SUCCESS, File=berserk_image_bmp_RLE.compressed, Size=1538916
+[2025-11-17 21:34:27.902] [INFO] Client connected
+[2025-11-17 21:34:27.902] [INFO] Processing request from client socket: 360
+[2025-11-17 21:34:27.903] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:34:27.903] [INFO] Processing decompression request
+[2025-11-17 21:34:27.903] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:34:27.903] [ERROR] Huffman: Invalid compressed data (tree)
+[2025-11-17 21:34:27.904] [INFO] Response sent: Status=FAILURE, File=, Size=0
+[2025-11-17 21:35:00.949] [INFO] Client connected
+[2025-11-17 21:35:00.950] [INFO] Processing request from client socket: 404
+[2025-11-17 21:35:00.950] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp_Huffman.compressed, Size: 892597
+[2025-11-17 21:35:00.951] [INFO] Processing decompression request
+[2025-11-17 21:35:00.951] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:35:00.993] [INFO] Huffman Decompression: 892597 bytes -> 958062 bytes
+[2025-11-17 21:35:00.994] [INFO] Created directory: ./decompressed/
+[2025-11-17 21:35:00.995] [INFO] Successfully wrote file: ./decompressed/berserk_image_bmp_decompressed.compressed (958062 bytes)
+[2025-11-17 21:35:00.995] [INFO] Decompression completed: berserk_image_bmp_decompressed.compressed
+[2025-11-17 21:35:00.995] [INFO] Response sent: Status=SUCCESS, File=berserk_image_bmp_decompressed.compressed, Size=958062
+[2025-11-17 21:35:47.404] [INFO] Client connected
+[2025-11-17 21:35:47.404] [INFO] Processing request from client socket: 428
+[2025-11-17 21:35:47.404] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: RLE, File: berserk_image_bmp_Huffman.compressed, Size: 892597
+[2025-11-17 21:35:47.405] [INFO] Processing decompression request
+[2025-11-17 21:35:47.405] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:35:47.405] [ERROR] RLE: Invalid compressed data (odd number of bytes)
+[2025-11-17 21:35:47.405] [INFO] Response sent: Status=FAILURE, File=, Size=0
+[2025-11-17 21:36:27.578] [INFO] Client connected
+[2025-11-17 21:36:27.578] [INFO] Processing request from client socket: 436
+[2025-11-17 21:36:27.578] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: RLE, File: rle_test_RLE.compressed, Size: 41230
+[2025-11-17 21:36:27.579] [INFO] Processing decompression request
+[2025-11-17 21:36:27.579] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:36:27.586] [INFO] RLE Decompression: 41230 bytes -> 5242880 bytes
+[2025-11-17 21:36:27.588] [INFO] Successfully wrote file: ./decompressed/rle_test_decompressed.compressed (5242880 bytes)
+[2025-11-17 21:36:27.589] [INFO] Decompression completed: rle_test_decompressed.compressed
+[2025-11-17 21:36:27.590] [INFO] Response sent: Status=SUCCESS, File=rle_test_decompressed.compressed, Size=5242880
+[2025-11-17 21:37:57.873] [INFO] Client connected
+[2025-11-17 21:37:57.873] [INFO] Processing request from client socket: 436
+[2025-11-17 21:37:57.874] [INFO] Request received: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:37:57.874] [INFO] Processing compression request
+[2025-11-17 21:37:57.875] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:37:57.929] [INFO] Huffman Compression: 958062 bytes -> 892597 bytes
+[2025-11-17 21:37:57.931] [INFO] Successfully wrote file: ./compressed/berserk_image_bmp_Huffman.compressed (892597 bytes)
+[2025-11-17 21:37:57.931] [INFO] Compression completed: berserk_image_bmp_Huffman.compressed
+[2025-11-17 21:37:57.932] [INFO] Response sent: Status=SUCCESS, File=berserk_image_bmp_Huffman.compressed, Size=892597
+[2025-11-17 21:39:20.778] [INFO] Client connected
+[2025-11-17 21:39:20.779] [INFO] Processing request from client socket: 448
+[2025-11-17 21:39:20.782] [INFO] Request received: COMPRESS_REQUEST, Algorithm: RLE, File: rle_test.bin, Size: 5242880
+[2025-11-17 21:39:20.783] [INFO] Processing compression request
+[2025-11-17 21:39:20.783] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:39:20.788] [INFO] RLE Compression: 5242880 bytes -> 41230 bytes
+[2025-11-17 21:39:20.788] [INFO] Successfully wrote file: ./compressed/rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:39:20.789] [INFO] Compression completed: rle_test_RLE.compressed
+[2025-11-17 21:39:20.789] [INFO] Response sent: Status=SUCCESS, File=rle_test_RLE.compressed, Size=41230
+[2025-11-17 21:40:02.340] [INFO] Client connected
+[2025-11-17 21:40:02.340] [INFO] Processing request from client socket: 448
+[2025-11-17 21:40:02.340] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: RLE, File: rle_test_RLE.compressed, Size: 41230
+[2025-11-17 21:40:02.341] [INFO] Processing decompression request
+[2025-11-17 21:40:02.341] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:40:02.349] [INFO] RLE Decompression: 41230 bytes -> 5242880 bytes
+[2025-11-17 21:40:02.351] [INFO] Successfully wrote file: ./decompressed/rle_test_decompressed.compressed (5242880 bytes)
+[2025-11-17 21:40:02.352] [INFO] Decompression completed: rle_test_decompressed.compressed
+[2025-11-17 21:40:02.354] [INFO] Response sent: Status=SUCCESS, File=rle_test_decompressed.compressed, Size=5242880
+[2025-11-17 21:40:22.699] [INFO] Client connected
+[2025-11-17 21:40:22.700] [INFO] Processing request from client socket: 448
+[2025-11-17 21:40:22.700] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: HUFFMAN, File: rle_test_RLE.compressed, Size: 41230
+[2025-11-17 21:40:22.700] [INFO] Processing decompression request
+[2025-11-17 21:40:22.700] [INFO] Creating Huffman algorithm instance
+[2025-11-17 21:40:22.700] [ERROR] Huffman: Invalid compressed data (tree)
+[2025-11-17 21:40:22.700] [INFO] Response sent: Status=FAILURE, File=, Size=0
+[2025-11-17 21:40:46.300] [INFO] Client connected
+[2025-11-17 21:40:46.300] [INFO] Processing request from client socket: 448
+[2025-11-17 21:40:46.301] [INFO] Request received: DECOMPRESS_REQUEST, Algorithm: RLE, File: huffman_test_Huffman.compressed, Size: 1277479
+[2025-11-17 21:40:46.302] [INFO] Processing decompression request
+[2025-11-17 21:40:46.302] [INFO] Creating RLE algorithm instance
+[2025-11-17 21:40:46.302] [ERROR] RLE: Invalid compressed data (odd number of bytes)
+[2025-11-17 21:40:46.302] [INFO] Response sent: Status=FAILURE, File=, Size=0
+[2025-11-17 21:43:08.951] [INFO] Server stopped
+[2025-11-17 21:43:08.951] [INFO] Server shutdown complete

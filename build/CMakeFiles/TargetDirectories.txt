@@ -1,0 +1,7 @@
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/server.dir
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/client.dir
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/test_huffman.dir
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/test_rle.dir
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/test_fileHandler.dir
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cole/Desktop/programming principles assessment 2/build/CMakeFiles/ZERO_CHECK.dir

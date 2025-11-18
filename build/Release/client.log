@@ -1,0 +1,114 @@
+
+========== New Session: 2025-11-17 21:01:22.195 ==========
+[2025-11-17 21:01:22.196] [INFO] Client initialized for server 127.0.0.1:8080
+
+========== New Session: 2025-11-17 21:04:48.177 ==========
+[2025-11-17 21:04:48.179] [INFO] Client initialized for server 127.0.0.1:8080
+
+========== New Session: 2025-11-17 21:14:45.228 ==========
+[2025-11-17 21:14:45.230] [INFO] Client initialized for server 127.0.0.1:8080
+[2025-11-17 21:15:15.204] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\rle_test.bin (5242880 bytes)
+[2025-11-17 21:15:15.206] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:15:15.207] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: RLE, File: rle_test.bin, Size: 5242880
+[2025-11-17 21:15:15.217] [INFO] Response received: Status=SUCCESS, File=rle_test_RLE.compressed, Size=41230
+[2025-11-17 21:15:15.218] [INFO] Disconnected from server
+[2025-11-17 21:15:15.219] [INFO] Created directory: ./client_output
+[2025-11-17 21:15:15.219] [INFO] Successfully wrote file: ./client_output/rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:17:04.401] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\huffman_test.txt (5242880 bytes)
+[2025-11-17 21:17:04.402] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:17:04.403] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: huffman_test.txt, Size: 5242880
+[2025-11-17 21:17:04.513] [INFO] Response received: Status=SUCCESS, File=huffman_test_Huffman.compressed, Size=1277479
+[2025-11-17 21:17:04.513] [INFO] Disconnected from server
+[2025-11-17 21:17:04.514] [INFO] Successfully wrote file: ./client_output/huffman_test_Huffman.compressed (1277479 bytes)
+[2025-11-17 21:17:53.007] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\rle_test.bin (5242880 bytes)
+[2025-11-17 21:17:53.008] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:17:53.009] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: rle_test.bin, Size: 5242880
+[2025-11-17 21:17:53.070] [INFO] Response received: Status=SUCCESS, File=rle_test_Huffman.compressed, Size=1259130
+[2025-11-17 21:17:53.070] [INFO] Disconnected from server
+[2025-11-17 21:17:53.071] [INFO] Successfully wrote file: ./client_output/rle_test_Huffman.compressed (1259130 bytes)
+[2025-11-17 21:18:12.446] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\huffman_test.txt (5242880 bytes)
+[2025-11-17 21:18:12.448] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:18:12.449] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: RLE, File: huffman_test.txt, Size: 5242880
+[2025-11-17 21:18:12.478] [INFO] Response received: Status=SUCCESS, File=huffman_test_RLE.compressed, Size=7074898
+[2025-11-17 21:18:12.478] [INFO] Disconnected from server
+[2025-11-17 21:18:12.481] [INFO] Successfully wrote file: ./client_output/huffman_test_RLE.compressed (7074898 bytes)
+
+========== New Session: 2025-11-17 21:29:31.966 ==========
+[2025-11-17 21:29:31.968] [INFO] Client initialized for server 127.0.0.1:8080
+[2025-11-17 21:30:07.066] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\vinland_saga_image.jpg (197726 bytes)
+[2025-11-17 21:30:07.068] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:30:07.068] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: vinland_saga_image.jpg, Size: 197726
+[2025-11-17 21:30:07.087] [INFO] Response received: Status=SUCCESS, File=vinland_saga_image_Huffman.compressed, Size=198432
+[2025-11-17 21:30:07.087] [INFO] Disconnected from server
+[2025-11-17 21:30:07.088] [INFO] Successfully wrote file: ./client_output/vinland_saga_image_Huffman.compressed (198432 bytes)
+[2025-11-17 21:30:29.035] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\vinland_saga_image.jpg (197726 bytes)
+[2025-11-17 21:30:29.036] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:30:29.036] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: RLE, File: vinland_saga_image.jpg, Size: 197726
+[2025-11-17 21:30:29.038] [INFO] Response received: Status=SUCCESS, File=vinland_saga_image_RLE.compressed, Size=392724
+[2025-11-17 21:30:29.038] [INFO] Disconnected from server
+[2025-11-17 21:30:29.039] [INFO] Successfully wrote file: ./client_output/vinland_saga_image_RLE.compressed (392724 bytes)
+[2025-11-17 21:33:57.742] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\berserk_image_bmp.bmp (958062 bytes)
+[2025-11-17 21:33:57.743] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:33:57.743] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:33:57.803] [INFO] Response received: Status=SUCCESS, File=berserk_image_bmp_Huffman.compressed, Size=892597
+[2025-11-17 21:33:57.803] [INFO] Disconnected from server
+[2025-11-17 21:33:57.804] [INFO] Successfully wrote file: ./client_output/berserk_image_bmp_Huffman.compressed (892597 bytes)
+[2025-11-17 21:34:13.230] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\berserk_image_bmp.bmp (958062 bytes)
+[2025-11-17 21:34:13.230] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:34:13.231] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: RLE, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:34:13.237] [INFO] Response received: Status=SUCCESS, File=berserk_image_bmp_RLE.compressed, Size=1538916
+[2025-11-17 21:34:13.237] [INFO] Disconnected from server
+[2025-11-17 21:34:13.238] [INFO] Successfully wrote file: ./client_output/berserk_image_bmp_RLE.compressed (1538916 bytes)
+[2025-11-17 21:34:27.901] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\berserk_image_bmp.bmp (958062 bytes)
+[2025-11-17 21:34:27.902] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:34:27.902] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:34:27.904] [INFO] Response received: Status=FAILURE, File=, Size=0
+[2025-11-17 21:34:27.904] [INFO] Disconnected from server
+[2025-11-17 21:35:00.948] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\build\Release\compressed\berserk_image_bmp_Huffman.compressed (892597 bytes)
+[2025-11-17 21:35:00.949] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:35:00.950] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp_Huffman.compressed, Size: 892597
+[2025-11-17 21:35:00.996] [INFO] Response received: Status=SUCCESS, File=berserk_image_bmp_decompressed.compressed, Size=958062
+[2025-11-17 21:35:00.996] [INFO] Disconnected from server
+[2025-11-17 21:35:00.997] [INFO] Successfully wrote file: ./client_output/berserk_image_bmp_decompressed.compressed (958062 bytes)
+[2025-11-17 21:35:47.403] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\build\Release\compressed\berserk_image_bmp_Huffman.compressed (892597 bytes)
+[2025-11-17 21:35:47.404] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:35:47.404] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: RLE, File: berserk_image_bmp_Huffman.compressed, Size: 892597
+[2025-11-17 21:35:47.405] [INFO] Response received: Status=FAILURE, File=, Size=0
+[2025-11-17 21:35:47.405] [INFO] Disconnected from server
+[2025-11-17 21:36:27.577] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\build\Release\compressed\rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:36:27.578] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:36:27.578] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: RLE, File: rle_test_RLE.compressed, Size: 41230
+[2025-11-17 21:36:27.593] [INFO] Response received: Status=SUCCESS, File=rle_test_decompressed.compressed, Size=5242880
+[2025-11-17 21:36:27.593] [INFO] Disconnected from server
+[2025-11-17 21:36:27.595] [INFO] Successfully wrote file: ./client_output/rle_test_decompressed.compressed (5242880 bytes)
+
+========== New Session: 2025-11-17 21:37:31.025 ==========
+[2025-11-17 21:37:31.026] [INFO] Client initialized for server 127.0.0.1:8080
+[2025-11-17 21:37:57.872] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\berserk_image_bmp.bmp (958062 bytes)
+[2025-11-17 21:37:57.873] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:37:57.873] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: HUFFMAN, File: berserk_image_bmp.bmp, Size: 958062
+[2025-11-17 21:37:57.932] [INFO] Response received: Status=SUCCESS, File=berserk_image_bmp_Huffman.compressed, Size=892597
+[2025-11-17 21:37:57.933] [INFO] Disconnected from server
+[2025-11-17 21:37:57.934] [INFO] Successfully wrote file: ./client_output/berserk_image_bmp_Huffman.compressed (892597 bytes)
+[2025-11-17 21:39:20.777] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\rle_test.bin (5242880 bytes)
+[2025-11-17 21:39:20.778] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:39:20.779] [INFO] Request sent: COMPRESS_REQUEST, Algorithm: RLE, File: rle_test.bin, Size: 5242880
+[2025-11-17 21:39:20.789] [INFO] Response received: Status=SUCCESS, File=rle_test_RLE.compressed, Size=41230
+[2025-11-17 21:39:20.789] [INFO] Disconnected from server
+[2025-11-17 21:39:20.790] [INFO] Successfully wrote file: ./client_output/rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:40:02.339] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\build\Release\compressed\rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:40:02.340] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:40:02.340] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: RLE, File: rle_test_RLE.compressed, Size: 41230
+[2025-11-17 21:40:02.357] [INFO] Response received: Status=SUCCESS, File=rle_test_decompressed.compressed, Size=5242880
+[2025-11-17 21:40:02.357] [INFO] Disconnected from server
+[2025-11-17 21:40:02.360] [INFO] Successfully wrote file: ./client_output/rle_test_decompressed.compressed (5242880 bytes)
+[2025-11-17 21:40:22.699] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\build\Release\compressed\rle_test_RLE.compressed (41230 bytes)
+[2025-11-17 21:40:22.699] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:40:22.700] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: HUFFMAN, File: rle_test_RLE.compressed, Size: 41230
+[2025-11-17 21:40:22.700] [INFO] Response received: Status=FAILURE, File=, Size=0
+[2025-11-17 21:40:22.701] [INFO] Disconnected from server
+[2025-11-17 21:40:46.299] [INFO] Successfully read file: C:\Users\Cole\Desktop\programming principles assessment 2\build\Release\compressed\huffman_test_Huffman.compressed (1277479 bytes)
+[2025-11-17 21:40:46.300] [INFO] Connected to server 127.0.0.1:8080
+[2025-11-17 21:40:46.301] [INFO] Request sent: DECOMPRESS_REQUEST, Algorithm: RLE, File: huffman_test_Huffman.compressed, Size: 1277479
+[2025-11-17 21:40:46.302] [INFO] Response received: Status=FAILURE, File=, Size=0
+[2025-11-17 21:40:46.302] [INFO] Disconnected from server

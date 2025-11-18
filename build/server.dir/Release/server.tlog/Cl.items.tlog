@@ -1,0 +1,11 @@
+C:\Users\Cole\Desktop\programming principles assessment 2\common\networkUtils.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\networkUtils.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\file\fileHandler.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\fileHandler.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\algorithms\RLE.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\RLE.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\algorithms\huffman.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\huffman.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\algorithms\algorithmFactory.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\algorithmFactory.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\utils\logger.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\logger.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\src\request.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\request.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\src\response.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\response.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\server\main_server.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\main_server.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\server\server.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\server.obj
+C:\Users\Cole\Desktop\programming principles assessment 2\server\workerthread.cpp;C:\Users\Cole\Desktop\programming principles assessment 2\build\server.dir\Release\workerthread.obj
